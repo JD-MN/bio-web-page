@@ -1,0 +1,26 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+ /* css code */
+body {
+    background:#B8D3D1;
+    padding: 20px;
+    color: white;
+    text-align: center;
+   font-family: 'Roboto Condensed', sans-serif;
+}
+h1{font-size: large;
+}
+p{font-size: small;
+}
+a{text-decoration: none; color: white;
+}
+
+.profile-img{width: 50%;
+  border-radius: 50%;
+}
+.btn{display: block;
+  color: grey;
+  padding: 15px;
+  background: white;
+  margin: 10px;
+  box-shadow: 5px 5px #888888;
+}
